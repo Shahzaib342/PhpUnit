@@ -41,4 +41,5 @@ directory and start a new project you can do same with any of your existing proj
     Now if you run again ./vendor/bin/phpunit you will see phpunit try to executes test cases within
     test directory
 
-5) Now go ahead create a new directory under test named "unit" and start writing test cases.
+5) Now go ahead create a new directory under test named "unit" and start writing test cases, and after writing each test case run this command to check status of all of your test cases.
+ phpunit or ./vendor/bin/phpunit
